@@ -84,8 +84,11 @@ I'm passionate about building reliable systems, understanding how infrastructure
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milesmorales-cloud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milesmorales-cloud&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=milesmorales-cloud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=milesmorales-cloud&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <p align="center" style="margin-top: 10px;">
@@ -97,7 +100,8 @@ I'm passionate about building reliable systems, understanding how infrastructure
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milesmorales-cloud&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <!-- Ashutosh00710 mirror, which has much higher uptime -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=milesmorales-cloud&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
