@@ -84,14 +84,8 @@ I'm passionate about building reliable systems, understanding how infrastructure
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=milesmorales-cloud&theme=darkhub&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-</div>
-
-<p align="center" style="margin-top: 15px;">
-  <!-- Streak Stats (Reliable host) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milesmorales-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
