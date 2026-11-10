@@ -1,3 +1,4 @@
+![Miles - Cloud Engineering](<MILES_ Cloud, Code, and Automation.png>)
 # 👋 Hey, I'm Miles!
 
 ### ☁️ Aspiring Cloud Engineer | DevOps Enthusiast | Computer Science Student
