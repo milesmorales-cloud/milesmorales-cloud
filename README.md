@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF66&center=true&vCenter=true&width=750&height=60&lines=$+terraform+apply+-auto-approve;Apply+complete!+Resources:+8+added,+0+changed.;$+kubectl+get+pods+-n+production;STATUS:+Running+(24%2F24+Pods+Healthy);$+aws+ecs+deploy+--cluster+miles-core;Deploying+reliable+cloud+systems..." alt="Cloud Terminal Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=MILES&fontSize=70&fontAlignY=38&desc=Cloud%20Architecture%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
 
 </div>
 
