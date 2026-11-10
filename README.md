@@ -76,16 +76,6 @@ I'm passionate about building reliable systems, understanding how infrastructure
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| ☁️ **[Cloud Engineer Roadmap](https://github.com/milesmorales-cloud/cloud-engineer-roadmap)** | `AWS` `Terraform` `Docker` `Linux` | Comprehensive repository detailing practical cloud experiments, system architecture diagrams, and IaC templates. |
-| 🎓 **[CampusHub](https://github.com/milesmorales-cloud/campushub)** | `Node.js` `PostgreSQL` `REST API` | Centralized platform providing university student services, schedule tracking, and academic record queries. |
-| ⚡ **[QuizLive](https://github.com/milesmorales-cloud/quizlive)** | `Node.js` `Socket.IO` `SQLite` | Real-time classroom assessment application with zero-latency question broadcasting and interactive teacher controls. |
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
