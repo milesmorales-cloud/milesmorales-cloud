@@ -17,6 +17,7 @@
   <a href="https://github.com/milesmorales-cloud"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:israeljaphary382@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/m.i.l.e.s.m.o.r.a.l.e.s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 I'm passionate about building reliable systems, understanding how infrastructure works, and engineering scalable cloud architectures. Currently learning, experimenting, and documenting my journey one commit at a time.
