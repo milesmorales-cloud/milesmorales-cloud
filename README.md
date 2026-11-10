@@ -84,14 +84,12 @@ I'm passionate about building reliable systems, understanding how infrastructure
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=milesmorales-cloud&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=milesmorales-cloud&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=milesmorales-cloud&theme=darkhub&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
 </div>
 
-<p align="center" style="margin-top: 10px;">
+<p align="center" style="margin-top: 15px;">
+  <!-- Streak Stats (Reliable host) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milesmorales-cloud&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -100,8 +98,12 @@ I'm passionate about building reliable systems, understanding how infrastructure
 ## 📈 Contribution Activity
 
 <div align="center">
-  <!-- Ashutosh00710 mirror, which has much higher uptime -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=milesmorales-cloud&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <!-- Native Snake Animation (immune to API rate limits) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milesmorales-cloud/milesmorales-cloud/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milesmorales-cloud/milesmorales-cloud/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/milesmorales-cloud/milesmorales-cloud/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ---
