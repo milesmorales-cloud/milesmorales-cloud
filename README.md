@@ -55,11 +55,11 @@ Currently learning, experimenting, and building projects as I work towards becom
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=milesmorales-cloud&layout=compact&theme=github_dark&hide_border=true)
 
----
 ## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=milesmorales-cloud&theme=react-dark&hide_border=true)
 
+---
 
 ### 🎯 My Goal
 
