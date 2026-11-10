@@ -1,6 +1,9 @@
 <div align="center">
+<div align="center">
 
-<img src="./MILES_%20Cloud,%20Code,%20and%20Automation.png" alt="Miles - Cloud Engineering" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF66&center=true&vCenter=true&width=750&height=60&lines=$+terraform+apply+-auto-approve;Apply+complete!+Resources:+8+added,+0+changed.;$+kubectl+get+pods+-n+production;STATUS:+Running+(24%2F24+Pods+Healthy);$+aws+ecs+deploy+--cluster+miles-core;Deploying+reliable+cloud+systems..." alt="Cloud Terminal Animation" />
+
+</div>
 
 # 👋 Hey, I'm Miles!
 
