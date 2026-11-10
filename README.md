@@ -1,7 +1,11 @@
 <div align="center">
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=MILES&fontSize=70&fontAlignY=38&desc=Cloud%20Architecture%20%7C%20DevOps%20%7C%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=1e293b&height=140&section=header&text=MILES%20MORALES&fontSize=42&fontColor=38bdf8&fontAlignY=42" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=ssh+miles@cloud-infra:~$+init;Provisioning+AWS+VPC+%26+Kubernetes+Clusters;Automating+CI%2FCD+with+Docker+%26+Terraform;Monitoring+system+resilience+and+uptime" alt="Terminal Typing" />
 
 </div>
 
